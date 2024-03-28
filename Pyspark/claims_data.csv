@@ -1,0 +1,11 @@
+claim_id,policy_id,claim_amount,approval_status
+1,1,20000.0,Approved
+2,2,25000.0,Approved
+3,3,18000.0,Approved
+4,4,30000.0,Denied
+5,5,22000.0,Approved
+6,6,19000.0,Approved
+7,7,28000.0,Denied
+8,8,33000.0,Approved
+9,9,21000.0,Approved
+10,10,26000.0,Denied
